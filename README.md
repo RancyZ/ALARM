@@ -2,11 +2,9 @@
     ALARM
 </h2>
 
-<h4 align='center'>
+<h2 align='center'>
 ALARM: Automated MLLM-Based Anomaly Detection in Complex-EnviRonment Monitoring with Uncertainty Quantification
-</h4>
-
-Our paper is available at https://arxiv.org/pdf/2512.03101.
+</h2>
 
 All the experiments are run by Python 3.12.2 on Apple M3 Pro with 18GB of memory. 
 
