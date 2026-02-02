@@ -1,8 +1,4 @@
 <h2 align='center'>
-    ALARM
-</h2>
-
-<h2 align='center'>
 ALARM: Automated MLLM-Based Anomaly Detection in Complex-EnviRonment Monitoring with Uncertainty Quantification
 </h2>
 
