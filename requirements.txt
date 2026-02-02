@@ -1,0 +1,14 @@
+numpy==1.26.4
+pandas==2.3.0
+opencv-python==4.11.0.86
+openai==2.15.0
+python-dotenv==1.1.0
+google-generativeai==0.5.4
+google-cloud-storage==2.19.0
+google-cloud-aiplatform==1.71.1
+vertexai==1.71.1
+httpx==0.24.1
+anthropic==0.26.0
+moviepy==1.0.3
+scikit-learn==1.7.0
+yt-dlp==2026.1.29
